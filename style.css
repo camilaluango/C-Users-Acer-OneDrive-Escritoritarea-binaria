@@ -24,3 +24,6 @@ table{
     table-layout: fixed;
     border-collapse: collapse;
 }
+thead{
+    background:rgba(243, 140, 210, 0.4) ;
+}
