@@ -17,3 +17,10 @@ body{
 .container{
     border: solid 1px rgba(2, 2, 2, 0.2) ;
 }
+
+table{
+    color:#ffff;
+    font-size: 14px;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
