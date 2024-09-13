@@ -5,3 +5,11 @@
     font-family:monospace;
 }
 
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100ch;
+    background:linear-gradient(#b7328d, #ac18c0)
+
+}
