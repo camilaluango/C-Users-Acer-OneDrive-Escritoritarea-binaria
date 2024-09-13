@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family:monospace;
+    
 }
 
 body{
@@ -44,4 +45,8 @@ cursor: pointer;
 tbody tr:hover {
 background:rgba(243, 103, 199, 0.4) ;
 
+}
+.titulo{
+    font-size: 27px;
+    margin: 50px;
 }
