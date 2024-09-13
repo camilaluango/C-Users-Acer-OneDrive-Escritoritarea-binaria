@@ -13,3 +13,7 @@ body{
     background:linear-gradient(#b7328d, #ac18c0)
 
 }
+
+.container{
+    border: solid 1px rgba(2, 2, 2, 0.2) ;
+}
