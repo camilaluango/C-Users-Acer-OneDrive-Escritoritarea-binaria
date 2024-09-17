@@ -17,7 +17,7 @@ body{
 }
 
 .container{
-    border: groove 50px rgba(2, 2, 2, 0.2) ;
+    border: outset 50px rgba(2, 2, 2, 0.2) ;
 }
 
 table{
@@ -44,9 +44,11 @@ cursor: pointer;
 }
 
 
-.titulo{
-    font-size: 27px;
+h1{
+    font-size: 66px;
     margin: 50px;
+    color: #6e2356;
+    
 }
 tbody tr .par {
     border: groove black;
