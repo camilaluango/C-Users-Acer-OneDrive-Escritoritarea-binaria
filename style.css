@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family:monospace;
+   
     
 }
 
@@ -10,8 +10,9 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 100ch;
-    background:linear-gradient(#b7328d, #ac18c0)
+    font-family: Arial, Helvetica, sans-serif;
+    background:linear-gradient(#b7328d, #52235d, #1e1520);
+    height: 100vh;
 
 }
 
