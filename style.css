@@ -39,15 +39,15 @@ td{
     border-bottom: solid 1px rgba(255, 255, 255, 0.2);
 }
 
-tbody tr{
+tbody tr td .par:hover{
 cursor: pointer;
 }
 
-tbody tr:hover {
-background:rgba(243, 103, 199, 0.4) ;
 
-}
 .titulo{
     font-size: 27px;
     margin: 50px;
+}
+tbody tr .par:hover{
+background: rgba(243, 103, 199, 0.4);
 }
